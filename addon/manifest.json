@@ -1,0 +1,26 @@
+{
+
+    "manifest_version": 2,
+    "name": "TheGbGuy Auto-Like",
+    "version": "1.0",
+  
+    "description": "Automātiski nospiež \"like\" pogu visiem TheGbGuy video, uz kuriem tu aizej.",
+  
+    "icons": {
+      "512": "icon.png"
+    },
+
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+  
+    "content_scripts": [
+      {
+        "matches": ["*://youtube.com/*", "*://*.youtube.com/*"],
+        "js": ["index.js"],
+        "run_at": "document_end"
+      }
+    ]
+  
+  }
