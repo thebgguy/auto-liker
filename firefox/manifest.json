@@ -9,6 +9,11 @@
     "icons": {
       "512": "icon.png"
     },
+
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
   
     "content_scripts": [
       {
