@@ -9,7 +9,7 @@ Projekts licenzēts zem GPL 3.0 licenses.
 
 **Lejupielādējat šo projektu!**
 
-Priekš Chrome: *vēl nav pieejams*
+Priekš Chrome: [Lejupielādēt](https://drive.google.com/file/d/103N8YqisZEbX6fBUksHW1TdMpeXTK1_6/view)
 
 Priekš Firefox: [Lejupielādēt](https://addons.mozilla.org/firefox/downloads/file/3719714/thegbguy_auto_like-1.0-fx.xpi)
 
@@ -17,8 +17,6 @@ Priekš Firefox: [Lejupielādēt](https://addons.mozilla.org/firefox/downloads/f
 
 ```/assets``` - vizuālie materiāli
 
-```/firefox``` - Firefox kods
-
-```/chrome``` - Chrome kods
+```/addon``` - kods. Darbojas gan uz Firefox, gan uz Chrome.
 
 **© TheBgGuy, 2021**
